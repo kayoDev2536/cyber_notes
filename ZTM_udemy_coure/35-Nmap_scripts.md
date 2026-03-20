@@ -1,7 +1,7 @@
 
 # Nmap scripts: 
 	- to detect different system vulnerability
-##[*] location: "/usr/share/nmap/scripts"
+## [*] location: "/usr/share/nmap/scripts"
 
 ### Examples:
 	=> nmap  -sC <target> default script,, no breaking things,safe
@@ -10,6 +10,5 @@
 	=> nmap --script banner.. - a server introducing itself
 	=> nmap --script exploit.. - exploit some vulnerablity
 ## N.B:
-
-	=> nmap --script-help <name_of_scipt>: to get help..
-	=> ftp <ip_address>: to connect to a system through port 21...
+   **nmap --script-help <name_of_scipt>: to get help..**
+   **ftp <ip_address>: to connect to a system through port 21...**
