@@ -44,14 +44,14 @@
    	"sudo command" for temporary does
    
      * Package Installation In Linux    
-   	 - apt(Debian/Ubuntu based systems) stands for "Advanced package tool"  
-   	 - pacman(Arch based sys)  
-        *  "dpkg -1 file.deb" for manually installed debian file
+            apt(Debian/Ubuntu based systems) stands for "Advanced package tool"  
+            pacman(Arch based sys)  
+           "dpkg -1 file.deb" for manually installed debian file
    	   
    * **Script** - a file containing commands executed automatically  
-  	- to create " nano script.sh" has "#!/bin/bash" header  
-  	- make it excutable "chmod +x script.sh"  
-  	- run " ./script.sh"  
+        - to create " nano script.sh" has "#!/bin/bash" header  
+        - make it excutable "chmod +x script.sh"  
+        - run " ./script.sh"  
   * **shell** - is a command-line interface that allows users to interact with the OS.  
   	=> types of shell:  
                 * bash - Most common  
