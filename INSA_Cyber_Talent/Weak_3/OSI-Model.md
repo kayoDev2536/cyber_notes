@@ -109,7 +109,7 @@ Each layer removes its corresponding header until the original data reaches the 
 
 
 
-# 🧩 Key Takeaways
+# Key Takeaways
 
 - The OSI model is a mental model, not a literal implementation
 - Data is encapsulated when sent and decapsulated when received
