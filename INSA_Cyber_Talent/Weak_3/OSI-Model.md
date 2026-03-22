@@ -1,4 +1,4 @@
-# 🌐 OSI Model in Real-World Communication
+# OSI Model in Real-World Communication
 
 The OSI model is a conceptual framework used in Computer Networking to understand how data moves between devices over a network.
 
@@ -6,7 +6,7 @@ Instead of being just theory, it represents how real systems handle communicatio
 
 ---
 
-# 📦 Real-World Data Flow (Example: Opening a Website)
+# Real-World Data Flow (Example: Opening a Website)
 
 ## 1. Application Layer
 - Browser creates an HTTP/HTTPS request
@@ -74,7 +74,7 @@ Real role: Physical transmission of data
 
 ---
 
-# 🔁 Encapsulation (Sending Data)
+# Encapsulation (Sending Data)
 
 Application Data
 ↓
@@ -88,7 +88,7 @@ Bits transmitted as signals
 
 ---
 
-# 🔁 Decapsulation (Receiving Data)
+# Decapsulation (Receiving Data)
 
 Signals → Bits → Frames → Packets → Segments → Data
 
@@ -96,7 +96,7 @@ Each layer removes its corresponding header until the original data reaches the 
 
 ---
 
-# 🧠 Device Mapping
+#  Device Mapping
 
 - Layer 1 (Physical): Cables, hubs
 - Layer 2 (Data Link): Switches, NICs
@@ -106,17 +106,8 @@ Each layer removes its corresponding header until the original data reaches the 
 
 ---
 
-# 🔍 Practical Troubleshooting
 
-If something fails:
 
-- Check Layer 1: Cable / Wi-Fi connection
-- Check Layer 2: MAC / local network issues
-- Check Layer 3: IP connectivity (ping)
-- Check Layer 4: Port / transport issues
-- Check Layer 7: Application / HTTP / DNS issues
-
----
 
 # 🧩 Key Takeaways
 
